@@ -1,4 +1,6 @@
-# FootstepsDetection
+# Person Identification Based on Footstep Acoustic Signals
+
+Authors: Gonzalo Carretero, Inwook Kang, Yoeng Kok Leong, Elizabeth Sham
 
 A full description of our project can be found [here](docs/COMP4531Project.pdf)
 
